@@ -2,8 +2,7 @@
 <h3 align="center"> An Electrical and Computer Engineering major at Olin College of Engineering</h3>
 <p align="center"> Pronouns: she/her</p>
 
-- Researcher for Invisible Maps at Olin College
-- Interning through MIT's Break Through AI program at IBM to create a Sign Language Interpretation model
+- Researcher for SPGraphs at Olin College
 - Interested in Machine Learning, especially applications to healthcare and medicine
 - Learning TensorFlow in my spare time
 
