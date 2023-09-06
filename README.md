@@ -1,10 +1,9 @@
-<h1 align="center">Hi, I'm Rucha! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"> </h1>
-<h3 align="center"> An Electrical and Computer Engineering major at Olin College of Engineering</h3>
-<p align="center"> Pronouns: she/her</p>
+<h2 align="center">Hi, I'm Rucha! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"> </h1>
+<h4 align="center"> An Electrical and Computer Engineering major at Olin College of Engineering</h3>
 
-- Researcher for SPGraphs at Olin College
-- Interested in Machine Learning, especially applications to healthcare and medicine
-- Learning TensorFlow in my spare time
+- I am currently a researcher for SPGraphs at Olin College. We're looking at fMRI data using graph signal processing to perform fingerprinting and task decoding. After processing the data through multiple filters and aggregating based on brain parcellations, I am now working on feature selection to develop the model.
+- I have also worked in the Olin College Crowdsourcing and Machine Learning Lab, which is developing an indoor navigation app using ARKit for the visually impaired and blind. I spent a lot of time benchmarking the backend and using this information to make improvements.
+- Interested in Machine Learning and Algorithms, especially applications to healthcare and medicine. Currently learning TensorFlow in my spare time!
 
 LinkedIn: https://www.linkedin.com/in/rucha-dave/
 
