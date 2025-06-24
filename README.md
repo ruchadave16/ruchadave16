@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Rucha! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="40px"> </h1>
-<h4 align="left"> An Electrical and Computer Engineering major at <a href="https://www.olin.edu/">Olin College of Engineering</a></h3>
+<h4 align="left"> An M.D. / M.Eng. candidate at <a href="https://enmed.tamu.edu/">Texas A&M College of Engineering Medicine</a>. Bachelor's of Electrical and Computer Engineering from <a href="https://www.olin.edu/">Olin College of Engineering</a></h3>
 
 I am currently a researcher for SPGraphs at Olin College. We're analyzing fMRI data using graph signal processing and machine learning to fingerprint individuals and decode tasks. We've engineered and selected features that work best for the data and built a preliminary SVM model to classify tasks. Our next steps are expanding the model to include more patient data, validating and testing the model, and authoring a paper detailing our findings.
 
